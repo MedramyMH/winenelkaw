@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+*.tsbuildinfo
+.DS_Store
+
+# Capacitor / Android generated files
+android/.gradle/
+android/local.properties
+android/**/build/
+android/captures/
+android/.idea/
